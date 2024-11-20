@@ -12,3 +12,5 @@
 ```
 -docker compose up --build
 ```
+
+La pagina correra en localhost:8080
