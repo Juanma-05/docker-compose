@@ -1,16 +1,16 @@
 # Para que funcione escribir estos comandos en orden
 
 ```
--docker compose up -d mysqldb
+docker compose up -d mysqldb
 ```
 ```
--docker compose up -d app
+docker compose up -d app
 ```
 ```
--docker compose down app
+docker compose down app
 ```
 ```
--docker compose up --build
+docker compose up --build
 ```
 
 La pagina correra en localhost:8080
